@@ -1,7 +1,9 @@
-package com.aisha.newsapp;
+package com.aisha.newsapp.activity;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.aisha.newsapp.R;
 
 public class MainActivity extends AppCompatActivity {
 
