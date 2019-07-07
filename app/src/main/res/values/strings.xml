@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">News App</string>
+    <string name="news_api_url">https://newsapi.org/v2/top-headlines?country=sg&amp;apiKey=110076d0b016494d9a225970b0382a56</string>
 </resources>
